@@ -1,0 +1,1 @@
+This directory contains the code to reproduce the live birth prediction model.
