@@ -7,7 +7,7 @@ This directory contains the code to reproduce the model.
 Figure-2-Code-Data: 
 This directory contains the data and code used for generating ROC curves shown in Figure 2 of the manuscript.
 
-Figure-3-Data:
+Figure 3-Source data 1:
 This directory contains the data and code used for generating the AUC ranking chart shown in Fgiure 3 of the manuscript.
 
 Figure-4-Data:
